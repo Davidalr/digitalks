@@ -1,0 +1,66 @@
+/*
+Theme Name: Digitalks
+Theme URI: http://www.digitalks.com/
+Author:Davidlopez
+Author URI: http://digitalks.com
+Description: Tema para Digitalks -  Digitalks
+Version: 1.0
+Tags: Digitalks
+*/
+
+/* header */
+body{
+    background: #000000;
+}
+header{
+
+    color: #FFFFFF;
+}
+header h3{
+    color:#ffba00;
+}
+h2{
+    text-align: center;
+}
+h1{
+    color: #ffba00;
+    text-align: center;
+
+}
+.imagen ,.list, .form{
+    display:inline-block;
+    width:30%;
+
+}
+figure{
+    display: inline-block;
+    width:30%;
+}
+
+/* seccion marketing */
+
+.marketing{
+    background:#ffba00;
+}
+figure,h3{
+    display:inline-block;
+}
+/*seccion training*/
+.training{
+    color: #FFFFFF;
+}
+/*seccion issues*/
+
+.issues{
+    background:#FFFFFF;
+}
+/* seccion testimonials */
+
+.testimonials{
+    color: #FFFFFF;
+}
+.buy{
+    background: #FFFFFF;
+}
+
+
